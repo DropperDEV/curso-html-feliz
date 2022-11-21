@@ -8,6 +8,7 @@ header {
 
 nav{
     text-align: right;
+    
 }
 
 a {
@@ -19,6 +20,7 @@ a {
     margin-right: 30px;
     text-decoration: none;
     align-items: center;
+   
 }
 
 a::before{
@@ -30,11 +32,10 @@ a::before{
     height: 10px;
 }
 
-a:last-child::before{
+#button:before{
     content: "";
     display: inline-block;
     background-color: #62978F;
-    margin-right: 10px;
     width: 10px;
     height: 10px;
 }
@@ -45,9 +46,10 @@ a:last-child::before{
     box-shadow: 5px 5px 0px #000;
     padding: 18px 20px;
     margin: 0;
+    transition: transform 300ms cubic-bezier(.42,0,.5,2.66);
 }
 
 #button:hover{
-    background: #006359;
-    
+    transform: scale(1.08);
+
 }
