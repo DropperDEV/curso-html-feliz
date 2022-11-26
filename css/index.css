@@ -53,3 +53,105 @@ a::before{
     transform: scale(1.08);
 
 }
+
+#main-box-0{
+    background-color: #39c452;
+    display: inline-block;
+    box-shadow: 10px 10px 0px;
+    margin: 122px 722px 511px 105px;
+    width: 627px;
+    height: 184px;
+    left: 91px;
+    top: 196px;
+    
+}
+
+#h1-0{
+    position: absolute;
+    width: 440px;
+    height: 40px;
+    left: 181px;
+    top: 238px;
+    font-family: 'Press Start 2P';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px;
+    color: #70c50f;
+    text-shadow: 4px 4px 0px #000000;
+}
+
+#h1-1{
+    position: absolute;
+    width: 510px;
+    height: 30px;
+    left: 131px;
+    top: 306px;
+    font-family: 'Press Start 2P';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 30px;
+    text-shadow: 4px 4px 0px #7bed9f; 
+}
+
+#main-box-01{
+    margin: 35px 807px 413px 195px;
+}
+
+#sec-box-0{
+    position: absolute;
+    width: 170px;
+    height: 60px;
+    left: 181px;
+    top: 418px;
+    background: #D60040;
+    box-shadow: 5px 5px 0px #000000;
+}
+
+#sec-box-0{
+    position: absolute;
+    width: 170px;
+    height: 60px;
+    left: 181px;
+    top: 418px;
+}
+
+#sec-box-0 h2{
+    text-align: center;
+    width: 162px;
+    height: 25.57px;
+    left: 201px;
+    top: 435px;
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+
+#sec-box-1{
+    position: absolute;
+    width: 170px;
+    height: 60px;
+    left: 463px;
+    top: 418px;
+    background: #D60040;
+    box-shadow: 5px 5px 0px #000000;
+}
+
+#sec-box-1 h2{
+    text-align: center;
+    width: 162px;
+    height: 25.57px;
+    left: 483px;
+    top: 435px;
+    font-family: 'Fira Code';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    text-align: center;
+    color: #FFFFFF;
+}
